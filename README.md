@@ -37,6 +37,7 @@ Certifique-se de ter o Python instalado.
 Instale as dependências necessárias:
 
 pip install -r requirements.txt
+
 Execute o script principal para gerar os relatórios.
 
 Contato
