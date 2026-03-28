@@ -32,9 +32,9 @@ Como Reproduzir o Projeto
 
 Clonar o repositório: git clone https://github.com/SEU-USUARIO/projeto_vendas
 
-Instalar as dependências: pip install -r requirements.txt
+Instalar as dependências: pip install -r requirements.txt 
 
-Executar o projeto: python projeto_vendas.py
+Executar o projeto: python projeto_vendas.py 
 
 Objetivo Profissional
 
