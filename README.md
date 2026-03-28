@@ -30,19 +30,14 @@ O projeto possui um dashboard interativo em HTML para visualização dos indicad
 
 Como Reproduzir o Projeto
 
-Clonar o repositório
+Clonar o repositório: git clone https://github.com/SEU-USUARIO/projeto_vendas
 
-git clone https://github.com/SEU-USUARIO/projeto_vendas
+Instalar as dependências: pip install -r requirements.txt
 
-Instalar as dependências
-
-pip install -r requirements.txt
-
-Executar o projeto
-
-python projeto_vendas.py
+Executar o projeto: python projeto_vendas.py
 
 Objetivo Profissional
+
 Este projeto faz parte da minha transição de carreira para a área de Dados / Business Intelligence, com foco em análise de dados, geração de insights de negócio e construção de dashboards.
 
 Contato
