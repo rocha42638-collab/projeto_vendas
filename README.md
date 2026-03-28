@@ -30,15 +30,15 @@ O projeto possui um dashboard interativo em HTML para visualização dos indicad
 
 Como Reproduzir o Projeto
 
-# Clonar o repositório
+Clonar o repositório
 
 git clone https://github.com/SEU-USUARIO/projeto_vendas
 
-# Instalar as dependências
+Instalar as dependências
 
 pip install -r requirements.txt
 
-# Executar o projeto
+Executar o projeto
 
 python projeto_vendas.py
 
