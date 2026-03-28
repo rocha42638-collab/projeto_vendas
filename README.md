@@ -27,14 +27,19 @@ O projeto possui um dashboard interativo em HTML para visualização dos indicad
 
 (https://github.com/rocha42638-collab/projeto_vendas/blob/main/graficos/dashboard_completo_v2.html))
 
+
 Como Reproduzir o Projeto
+
 # Clonar o repositório
+
 git clone https://github.com/SEU-USUARIO/projeto_vendas
 
 # Instalar as dependências
+
 pip install -r requirements.txt
 
 # Executar o projeto
+
 python projeto_vendas.py
 
 Objetivo Profissional
