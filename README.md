@@ -34,7 +34,9 @@ Clonar o repositório: git clone https://github.com/SEU-USUARIO/projeto_vendas
 
 Instalar as dependências: pip install -r requirements.txt 
 
+
 Executar o projeto: python projeto_vendas.py 
+
 
 Objetivo Profissional
 
